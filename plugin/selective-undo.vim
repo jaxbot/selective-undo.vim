@@ -37,10 +37,10 @@ function! s:undoLine()
 			" This protects us when lines are deleted above the line we're
 			" dealing with
 			let line += line('$') - buflen
-		else
-			" Otherwise, update the current buffer length
-			let buflen = line('$')
 		endif
+		
+		" Update the current buffer length
+		let buflen = line('$')
 
 		" Go back to the (now shifted) line we're dealing with
 		execute ":" . line
