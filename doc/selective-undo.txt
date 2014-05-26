@@ -1,12 +1,6 @@
 Version: 0.1
 Author : Jaxbot <jaxbot@gmail.com>
-License: GPL-3 license  {{{
-You may copy, distribute and modify the software as long as you track
-changes/dates of in source files and keep modifications under GPL. You can
-distribute your application using a GPL library commercially, but you must also
-provide the source code.
-}}}
-
+License: MIT
 
 CONTENTS					*unite-contents*
 
