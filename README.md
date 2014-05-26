@@ -22,5 +22,5 @@ That being said, this is based around a hack, so don't expect anything amazing f
 
 Enjoy!
 
-GPLv3 Licensed
+MIT Licensed
 
