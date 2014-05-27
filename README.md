@@ -24,3 +24,7 @@ Enjoy!
 
 MIT Licensed
 
+## Shameless plug
+
+I hack around with Vim plugins a lot; if that sounds interesting to you, or you want to make my day, [follow me](https://github.com/jaxbot) :)
+
